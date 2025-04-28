@@ -2,7 +2,7 @@
 
 #### Step 1: Initializing GitHub
 
-1. Go to the repository link: [https://github.com/emanp/psy484_hw3 ](https://github.com/emanp/PSY484-Final-Project)
+1. Go to the repository link: [https://github.com/emanp/PSY484-Final-Project](https://github.com/emanp/PSY484-Final-Project)
 
 2. Click the green 'code' icon:
 
