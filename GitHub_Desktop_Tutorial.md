@@ -47,10 +47,11 @@
    
 
 #### Step 2: Accessing the project from Unity
+** NOTE: The project name shows a different name in the images, as this tutorial was used for a past project. However, the same concepts apply.
 
 1. Open Unity Hub
 
-2. Click Add -> Add Project From Disk. Click on the psy484_hw3 you just saved and click on the 'hw2' folder inside of it. This is the folder containing the project. : 
+2. Click Add -> Add Project From Disk. Click on the PSY484-Final-Project you just saved and click on the 'PSY484-Final-Project' folder inside of it. This is the folder containing the project. : 
 
    ![2-2](Images/2-2.jpeg)
 
